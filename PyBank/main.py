@@ -1,2 +1,0 @@
-name = 'dog'
-import os
